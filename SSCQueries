@@ -1,0 +1,6 @@
+CVE-2023-34362 - MoveIt
+(and http_favicon_hash:'Unknown favicon MD5: 9DFFE2772E6553E2BB480DDE2FE0C4A6' (or attributed_domain:'exampledomain.com' attributed_domain:'exampledomain2.com'))
+
+CVE-2023-27997 - Find Fortinet Appliances
+(and os_type:'FortiOS' (or attributed_domain:'exampledomain.com' attributed_domain:'exampledomain2.com'))
+
