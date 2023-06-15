@@ -1,2 +1,2 @@
-# SecurityScorecardASIQueries
-A collection of Security Scorecard Queries
+# Security Scorecard ASI Queries
+A collection of Security Scorecard ASI Queries
