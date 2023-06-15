@@ -4,3 +4,6 @@ CVE-2023-34362 - MoveIt
 CVE-2023-27997 - Find Fortinet Appliances
 (and os_type:'FortiOS' (or attributed_domain:'exampledomain.com' attributed_domain:'exampledomain2.com'))
 
+General Port Query
+(and port:'3389' (not port:'443') (not port:'80') (or attributed_domain:'exampledomain.com' attributed_domain:'exampledomain2.com'))
+
